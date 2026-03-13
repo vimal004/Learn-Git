@@ -1,5 +1,3 @@
 function greet(name) {
-    return "Hello " + name;
+    return `Hello ${name}, welcome!`;
 }
-
-console.log(greet("Vimal"));
