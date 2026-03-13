@@ -4,3 +4,4 @@ function greet(name) {
 
 console.log(greet("lohith"));
 console.log(greet("gokul"));
+console.log("hj")
